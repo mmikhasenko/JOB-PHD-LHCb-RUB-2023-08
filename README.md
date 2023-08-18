@@ -18,6 +18,7 @@ offers a platform to work on fronter of particle phenomenology, broaden the rese
 PhD students will be under the expert guidance of the group PI, Dr. M. Mikhasenko ([GitHub profile](https://github.com/mmikhasenko/)).
 
 Some previous works:
+
 - Notable LHCb papers: [Lc polarimetry](https://inspirehep.net/literature/2623821), [OmegacXX spectroscopy](https://inspirehep.net/literature/1879440), [Tcc discovery](https://inspirehep.net/literature/1915358), [Pentaquarks' studies](https://inspirehep.net/literature/1728691)
 - Other publications: [Ambiguities](https://inspirehep.net/literature/2673390), [eta(')pi Double Regge](https://inspirehep.net/literature/1859521), [KTMC](https://inspirehep.net/literature/2617378), [Jpsi3pi KT](https://inspirehep.net/literature/2652616), [Spin-parity of X->VV](https://inspirehep.net/literature/1806437), [a11420 COMPASS](https://inspirehep.net/literature/1800396)
 
@@ -25,7 +26,7 @@ Some previous works:
 The position spans 3-4 years.
 
 ### Funding:
-The position is funded by NRW FAIR / BMBF and comes with a regular working contract. The remuneration is set at 66% of the TV-L13 pay grade.
+The position is funded by NRW FAIR / BMBF and comes with a regular working contract. The remuneration is set at 66% of the [TV-L13](https://oeffentlicher-dienst.info/c/t/rechner/tv-l/allg?id=tv-l&g=E_13&s=1&zv=VBL&z=100&zulage=&stkl=1&r=0&zkf=&kk=15.5%25) pay grade.
 
 ### Eligibility:
 - A Master's degree in particle physics
