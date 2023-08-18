@@ -4,6 +4,7 @@ The newly established LHCb group at Ruhr University of Bochum, Germany, focused 
 
 ## Research Focus:
 Our projects are centered on the spectroscopy of hadrons, with a keen interest in the identification and study of exotic states. The successful candidate will engage in physics analysis using LHCb data, particularly:
+
 - Investigations into the properties of tetraquarks and pentaquarks
 - Spectroscopy of charm baryons
 - Search for glueball candidates in central exclusive production
