@@ -1,0 +1,35 @@
+name: Setup GitHub Pages
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+# When two jobs run in parallel, cancel the older ones, to make sure that the website is generated from the most recent commit.
+concurrency:
+  group: pluto-export
+  cancel-in-progress: true
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout this repository
+        uses: actions/checkout@v2
+
+      - name: Set up Pandoc for index orocessing
+        run: |
+          sudo apt-get install pandoc
+
+      - name: Convert README.md to index.html, add CSS
+        run: |
+          chmod +x indexprocess.sh
+          ./indexprocess.sh
+
+      - name: Deploy to gh-pages
+        uses: JamesIves/github-pages-deploy-action@releases/v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: gh-pages
+          folder: .
+          single-commit: true
