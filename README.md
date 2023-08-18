@@ -62,4 +62,4 @@ The candidate will benefit from our collaborations with:
 For further inquiries, please reach out to [mikhail.mikhasenko@cern.ch](mailto:mikhail.mikhasenko@cern.ch).
 
 ## Equal Opportunity:
-We are committed to fostering diversity in our group. Female students and those with non-traditional physics backgrounds are especially encouraged to apply.
+We are committed to fostering diversity in our group. Female students and students with non-traditional physics backgrounds are especially encouraged to apply.
