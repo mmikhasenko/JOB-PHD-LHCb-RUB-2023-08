@@ -18,8 +18,8 @@ offers a platform to work on fronter of particle phenomenology, broaden the rese
 PhD students will be under the expert guidance of the group PI, Dr. M. Mikhasenko ([GitHub profile](https://github.com/mmikhasenko/)).
 
 Some previous works:
-- Notable LHCb papers: [$\Lambda_c^+$ polarimetry](https://inspirehep.net/literature/2623821), [$\Omega_c^{0**}$ spectroscopy](https://inspirehep.net/literature/1879440), [$T_{cc}^+$ discovery](https://inspirehep.net/literature/1915358), [Pentaquarks' studies](https://inspirehep.net/literature/1728691)
-- Other publications: [Ambiguities](https://inspirehep.net/literature/2673390), [$\eta^{(\prime)}$ Double Regge], [KTMC](https://inspirehep.net/literature/2617378), [Jpsi3pi KT](https://inspirehep.net/literature/2652616), [Spin-parity of X->VV](https://inspirehep.net/literature/1806437), [a11420 COMPASS](https://inspirehep.net/literature/1800396)
+- Notable LHCb papers: [Lc polarimetry](https://inspirehep.net/literature/2623821), [OmegacXX spectroscopy](https://inspirehep.net/literature/1879440), [Tcc discovery](https://inspirehep.net/literature/1915358), [Pentaquarks' studies](https://inspirehep.net/literature/1728691)
+- Other publications: [Ambiguities](https://inspirehep.net/literature/2673390), [eta(')pi Double Regge](https://inspirehep.net/literature/1859521), [KTMC](https://inspirehep.net/literature/2617378), [Jpsi3pi KT](https://inspirehep.net/literature/2652616), [Spin-parity of X->VV](https://inspirehep.net/literature/1806437), [a11420 COMPASS](https://inspirehep.net/literature/1800396)
 
 ### Duration:
 The position spans 3-4 years.
