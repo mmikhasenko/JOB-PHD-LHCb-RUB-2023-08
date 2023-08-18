@@ -37,8 +37,8 @@ The position is funded by NRW FAIR / BMBF and comes with a regular working contr
 ## Application Process:
 Interested candidates should forward their CV, a motivation letter (not exceeding 500 words).
  
- - Applications should be sent to [mikhail.mikhasenko@cern.ch](mailto:mikhail.mikhasenko@cern.ch) with the subject line "PhD LHCb-RUB <candidate family name>".
- - The reference letter should be sent to [mikhail.mikhasenko@cern.ch](mailto:mikhail.mikhasenko@cern.ch) with the subject line "Reference letter, <candidate family name>".
+ - Applications should be sent to [mikhail.mikhasenko@cern.ch](mailto:mikhail.mikhasenko@cern.ch) with the subject line "PhD LHCb-RUB \<candidate family name\>".
+ - The reference letter should be sent to [mikhail.mikhasenko@cern.ch](mailto:mikhail.mikhasenko@cern.ch) with the subject line "Reference letter, \<candidate family name\>".
 
 The deadline for submission is **September 15th**.
 
