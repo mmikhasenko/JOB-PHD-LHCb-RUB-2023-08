@@ -8,6 +8,12 @@ During the interview, we will begin with an introduction to our group and the gr
 
 During your interview, we would like you to discuss a significant aspect of your master thesis / present research. Firstly, please provide a verbal concise explanation of the central problem or research question your thesis addresses. Secondly, select one important plot or figure from your work to discuss in detail.
 
+**Solution format:**
+```
+verbal summary
+one figure
+```
+
 ## 2. Physics Question: Electric Circuit and Resonance Pole (10')
 
 Consider the infinite electric circuit depicted below:
