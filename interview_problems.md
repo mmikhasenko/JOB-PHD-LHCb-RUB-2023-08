@@ -24,7 +24,7 @@ In this circuit:
 - "R" represents a resistor,
 - "L" represents an inductor,
 - "C" represents a capacitor,
-- The "o o" symbols symbol represents an AC voltage source,
+- The "o o" symbol represents an AC voltage source,
 - The dots indicate that the pattern of the last (or first) connection cell repeats infinitely.
 
 Your task is to find the resonance pole of this circuit in the complex frequency $\omega$ plane (you should express your answer in terms of R, L, and C, without substituting numerical values). The resonance pole is defined as the point in the complex frequency plane where the impedance of the circuit, becomes zero. Draw a connection with hadron physics resonances.
@@ -40,15 +40,15 @@ Your task is to find the resonance pole of this circuit in the complex frequency
 
 ## 3. Statistics Question: Uncertainty for a Bin of Low Statistics (10')
 
-In high-energy physics, counting experiments often involve analyzing data in a histogram to estimate various properties of the system under study including the assessment of counting uncertainty and error estimation. While the square root of the number of counts $\sqrt{N}$ generally offers a good estimation of counting uncertainty, it may not be the most precise approach, particularly for bins with a low number of counts where the probability of observing more counts is higher than observing fewer in repeated experiments, leading to asymmetric uncertainty. For reference, in ROOT, a common tool in high-energy physics, asymmetric errors for low count bins can be enabled using `ROOT.TH1.kPoisson`. The task is to calculate the upper and lower error bars for bins with 5, 50, and 500 counts, aiming for 68.3% central confidence intervals and compare to the Wald approximation.
+In high-energy physics, counting experiments often involve analyzing data in a histogram to estimate various properties of the system under study including the assessment of counting uncertainty and error estimation. While the square root of the number of counts $\sqrt{N}$ (the Wald approximation) generally offers a good estimation of counting uncertainty, it may not be the most precise approach, particularly for bins with a low number of counts where the probability of observing more counts is higher than observing fewer in repeated experiments, leading to asymmetric uncertainty. For reference, in ROOT, a common tool in high-energy physics, asymmetric errors for low count bins can be enabled using `ROOT.TH1.kPoisson`. The task is to calculate the upper and lower error bars for bins with 5, 50, and 500 counts, aiming for 68.3% central confidence intervals and compare to the Wald approximation.
 
 **Solution format:**
 ```
   N | Poisson | Wald
 ---------------------
-  5 |    ??   |  ??  
- 50 |    ??   |  ??  
-500 |    ??   |  ??  
+  5 |  +??-?? |  ±??  
+ 50 |  +??-?? |  ±??  
+500 |  +??-?? |  ±??  
 + notes, comments
 ```
 
