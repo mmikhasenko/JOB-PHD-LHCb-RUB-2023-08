@@ -1,8 +1,8 @@
 # PhD Interview Preparation
 
-Welcome to your PhD interview preparation with the Bochum Hadron Physics group. We are eager to learn more about your academic journey and research interests. Before we delve into the interview, we would like you to prepare answers to the following questions. These questions are designed to gauge your understanding and expertise in various crucial aspects of high-energy physics. Please note that you do not need to submit the results of these exercises. Once you are ready, request a call via email to schedule your interview before September 23rd.
+Welcome to your PhD interview preparation with the Bochum Hadron Physics group. We are eager to learn more about your academic journey and research interests. Before we delve into the interview, we would like you to prepare answers to the following questions. These questions are designed to gauge your understanding and expertise in various crucial aspects of high-energy physics. Please do not submit the results of these exercises. Once you are ready, request a call via email to schedule your interview before September 30th.
 
-During the interview, we will begin with an introduction to our group and the groundbreaking work we are involved in. Following this, you will have the opportunity to introduce yourself and share your academic and research background. The main part of the interview will be a discussion of the exercises outlined below, where you will present your prepared answers. We look forward to a fruitful and engaging discussion with you.
+During the interview, we will begin with an introduction to our group and future projects. Following this, you will have the opportunity to introduce yourself and share your academic and research background. The technical part of the interview will be a discussion of the exercises outlined below, where you will present your prepared solutions. We look forward to a fruitful and engaging discussion with you.
 
 ## 1. Master Thesis / Current Work (15')
 
@@ -10,7 +10,7 @@ During your interview, we would like you to discuss a significant aspect of your
 
 **Solution format:**
 ```
-verbal summary
+verbal summary,
 one figure
 ```
 
@@ -20,9 +20,9 @@ Consider the infinite electric circuit depicted below:
 
 ```
 ...-------------------R-------C-----C-----...
-...  |     |     |         |     |     |     
+     |     |     |         |     |     |     
 ...  L     L     L         C     C     C  ...
-...  |     |     |    ~    |     |     |   
+     |     |     |    ~    |     |     |   
 ...-----L-----L------o o------------------...
 ```
 
@@ -62,7 +62,7 @@ In high-energy physics, counting experiments often involve analyzing data in a h
 
 ## 4. Programming: Charm Hadrons Pie Plots (10')
 
-In this exercise, you are tasked with developing a program using your favorite programming language (Python, Julia, C++, ...) to visualize the quark composition of ground-state charm meson and baryons (D+, D-, Lambda_c+, ...), a category of hadrons containing at least one charm quark (ten hadrons in total). Your goal is to create a series of pie charts (e.g. `ax.pie(..., radius=...)`, or `cis` (math)) where each chart represents a different charm particle, with the area of circle to be proportional to the particle's lifetime. You are expected to consult the [Particle Data Group](https://pdglive.lbl.gov/Viewer.action) (PDG) to collect necessary data on the charm particles, including their names, quark composition, masses, and lifetimes (or use [PDG API](https://pdgapi.lbl.gov/doc/pythonapi.html)). Please push the plotting script to a public GitHub (or any other host) repository, write a short README file on how to run the code.
+In this exercise, you are tasked with developing a program using your favorite programming language (Python, Julia, C++, ...) to visualize the quark composition according to the constituent quark model of ground-state charm meson and baryons (D+, D-, Lambda_c+, ...), a category of hadrons containing at least one charm quark (ten hadrons in total). Your goal is to create a series of pie charts (e.g. `ax.pie(..., radius=...)`, or `cis` (math)) where each chart represents a different charm particle, with the area of circle to be proportional to the particle's lifetime. You are expected to consult the [Particle Data Group](https://pdglive.lbl.gov/Viewer.action) (PDG) to collect necessary data on the charm particles, including their names, quark composition, and lifetimes. Please push the plotting script to a public GitHub repository (or any other host server), write a short README file on how to run the code.
 
 **Solution format:**
 ```
